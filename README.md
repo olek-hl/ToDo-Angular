@@ -1,6 +1,6 @@
 # Todo
-##Simple todo checklist with AngularJS
-###You can see a <a href="http://glushyk.github.io/" title="todo demo">Demo</a>
+## Simple todo checklist with AngularJS
+### You can see a <a href="http://glushyk.github.io/" title="todo demo">Demo</a>
 Application can:
 <ul>
   <li>Add new tasks;</li>
